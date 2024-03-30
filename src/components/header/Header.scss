@@ -1,0 +1,33 @@
+.header_top {
+    background-color: #222;
+    padding: 5px 0px;
+    .header_phone {
+        color: #fff;
+        text-decoration: none;
+        font-size: 18px;
+        line-height: 29px;
+        font-weight: 600;
+        a {
+            color: #fff;
+            text-decoration: none;
+            margin-left: 10px;
+        }
+    }
+}
+
+.menu_area {
+    .navbar {
+        padding: 10px 0px;
+        .navbar-brand {
+            img {
+                width: 160px;
+            }
+        }
+        .navbar-nav {
+            a.nav-link {
+                padding: 5px 16px !important;
+                color: #000;
+            }
+        }
+    }
+}

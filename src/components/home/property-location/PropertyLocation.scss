@@ -1,0 +1,23 @@
+.property_location_sec {
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.location_card {
+    margin-bottom: 25px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 10px rgba(0,0,0,0.08);
+    border: none;
+}
+.blueBox .card-header {
+    background-color: #3e7bf0 !important;
+}
+.yellowBox .card-header {
+    background-color: #ffd73d !important;
+}
+.greenBox .card-header {
+    background-color: #1c9957 !important;
+}
+.redBox .card-header {
+    background-color: #d73f34 !important;
+}

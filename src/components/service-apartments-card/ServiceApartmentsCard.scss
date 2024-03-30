@@ -1,0 +1,19 @@
+.apartment_card {
+    margin-bottom: 30px;
+    img.card-img-top {
+        height: 250px;
+        object-fit: cover;
+    }
+    .card-body {
+        .card-title {
+            font-size: 18px;
+            line-height: 22px;
+            margin-bottom: 4px;
+        }
+        .card-text {
+            font-size: 14px;
+            line-height: 20px;
+            margin-bottom: 10px;
+        }
+    }
+}

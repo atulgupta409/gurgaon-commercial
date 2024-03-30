@@ -1,0 +1,39 @@
+.commercialPropertyGurgaon_section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    .property_item {
+        margin-bottom: 60px;
+        padding: 0px 50px;
+        &:last-child{
+            margin-bottom: 0px;
+        }
+        a {
+            text-decoration: none;
+            display: inline-block;
+        }
+        h4 {
+            font-weight: 600;
+            font-size: 24px;
+            line-height: 34px;
+            text-decoration: none;
+        }
+        .item_heading1 {
+            color: #4181ef !important;
+        }
+        .item_heading2 {
+            color: #33a353 !important;
+        }
+        .item_heading3 {
+            color: #e44034 !important;
+        }
+        .item_heading4 {
+            color: #f4b806 !important;
+        }
+        .item_heading5 {
+            color: #053550 !important;
+        }
+        .item_heading6 {
+            color: #00b095 !important;
+        }
+    }
+}

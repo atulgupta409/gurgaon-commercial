@@ -1,0 +1,28 @@
+.main_banner {
+    padding: 85px 0px;
+    background-size: cover;
+    background-position: center right;
+    .banner_content {
+        h1 {
+            color: #222;
+        }
+        p {
+            text-align: justify;
+        }
+        .banner_tagline {
+            margin-bottom: 0px;
+            .blued {
+                color: #0078ff;
+                font-weight: 500;
+            }
+            .greend {
+                color: #2ea928;
+                font-weight: 500;
+            }
+            .cinnab {
+                color: #dd4d40;
+                font-weight: 500;
+            }
+        }
+    }
+}

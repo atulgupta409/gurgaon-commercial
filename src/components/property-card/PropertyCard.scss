@@ -1,0 +1,40 @@
+.property_card {
+    a {
+        text-decoration: none;
+        .card {
+            border: none;
+            box-shadow: 0 0 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            img {
+                height: 210px;
+                object-fit: cover;
+            }
+            .card-body {
+                padding: 10px 10px 15px;
+                .card-title {
+                    font-size: 18px;
+                    line-height: 22px;
+                    margin-bottom: 4px;
+                }
+                .card-text {
+                    font-size: 14px;
+                    line-height: 20px;
+                    margin-bottom: 10px;
+                }
+                .card_p {
+                    font-size: 14px;
+                    line-height: 20px;
+                    margin-bottom: 0px;
+                    .red {
+                        color: red;
+                    }
+                    .green {
+                        color: green;
+                    }
+                }
+            }
+        }
+    }
+    
+}
